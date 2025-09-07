@@ -1,8 +1,10 @@
 # 인턴IN메타 6기 심형규 포트폴리오 공모전
 
-[포트폴리오 홈페이지](https://vagus3.github.io/InternINmetaPF/)
+[포트폴리오 홈페이지 링크](https://vagus3.github.io/InternINmetaPF/)
 
-[인턴IN메타 활동 내용](https://vagus3.github.io/InternInMeta2/)
+# 인턴IN메타 활동 내용
+
+[쇼핑몰 페이지 제작 링크](https://vagus3.github.io/InternInMeta2/)
 
 
 # Getting Started with Create React App
