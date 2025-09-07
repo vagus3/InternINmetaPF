@@ -2,7 +2,7 @@
 
 [포트폴리오 홈페이지](https://vagus3.github.io/InternINmetaPF/)
 
-[인턴IN메타 활동 내용](https://vagus3.github.io/internINmeta2/)
+[인턴IN메타 활동 내용](https://vagus3.github.io/InternInMeta2/)
 
 
 # Getting Started with Create React App
