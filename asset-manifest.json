@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://github.com/vagus3/InternINmetaPF/static/css/main.c02e1a53.css",
+    "main.js": "/https://github.com/vagus3/InternINmetaPF/static/js/main.b6d69654.js",
+    "static/js/453.ad7768ec.chunk.js": "/https://github.com/vagus3/InternINmetaPF/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/https://github.com/vagus3/InternINmetaPF/index.html",
+    "main.c02e1a53.css.map": "/https://github.com/vagus3/InternINmetaPF/static/css/main.c02e1a53.css.map",
+    "main.b6d69654.js.map": "/https://github.com/vagus3/InternINmetaPF/static/js/main.b6d69654.js.map",
+    "453.ad7768ec.chunk.js.map": "/https://github.com/vagus3/InternINmetaPF/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02e1a53.css",
+    "static/js/main.b6d69654.js"
+  ]
+}
