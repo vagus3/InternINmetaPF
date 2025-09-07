@@ -1,0 +1,74 @@
+.homepage-main {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.topic-card {
+  width: 80%;
+  max-width: 800px;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.topic-card:hover {
+  transform: translateY(-5px);
+}
+
+.topic-title {
+  margin: 0 0 15px 0;
+  font-size: 2rem;
+  color: #1c1e21;
+}
+
+.topic-description {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #606770;
+}
+
+.topic-link {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #1877f2;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.topic-link:hover {
+  color: #385898;
+}
+
+/* --- 태블릿 반응형 (768px 이하) --- */
+@media (max-width: 768px) {
+  .homepage-main {
+    padding: 20px;
+  }
+  .topic-card {
+    width: 90%;
+  }
+}
+
+/* --- 모바일 반응형 (480px 이하) --- */
+@media (max-width: 480px) {
+  .topic-card {
+    width: 95%;
+    padding: 20px;
+  }
+  .topic-title {
+    font-size: 1.6rem;
+  }
+  .topic-description {
+    font-size: 1rem;
+  }
+  .topic-link {
+    font-size: 1rem;
+  }
+}

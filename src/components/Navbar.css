@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #fff;
+  padding: 10px 30px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-title-link {
+  text-decoration: none;
+  color: #333;
+}
+
+.navbar h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+/* --- 모바일 반응형 (480px 이하) --- */
+@media (max-width: 480px) {
+  .navbar {
+    padding: 10px 15px;
+  }
+
+  .navbar h1 {
+    font-size: 1.5rem;
+  }
+}
